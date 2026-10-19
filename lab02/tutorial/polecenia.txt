@@ -1,0 +1,2 @@
+mkdir - tworzy folder
+cd - zmiana scieżki
